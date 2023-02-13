@@ -19,7 +19,7 @@ class AboutUs extends React.Component {
                 <h3> Making Grocery Shopping Hassle-free</h3>
                 <p>
                   {" "}
-                  MyDomot is a technology-driven personal shopping service that
+                  MyDom is a technology-driven personal shopping service that
                   connects individuals with local personal shoppers who can
                   purchase groceries on their behalf. Our platform allows
                   customers to submit a list of items they need and we match
